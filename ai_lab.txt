@@ -1,0 +1,18 @@
+AI Lab. Examination – 2023 (Even Semester)
+Answer any two
+
+1.	Predict canada's per capita income in year 2020. You will find canada_per_capita_income.csv file. Using this build a regression model and predict the per capita income for canadian citizens in year 2020. Find out the accuracy of your model also.
+2.	There is hiring.csv, this file contains hiring statics for a firm such as experience of candidate, his written test score and personal interview score. Based on these 3 factors, HR will decide the salary. Given this data, you need to build a machine learning model for HR department that can help them decide salaries for future candidates. Using this predict salaries for following candidates,
+2 yr experience, 9 test score, 6 interview score
+12 yr experience, 10 test score, 10 interview score
+3.	Using the dataset carprices.csv predict the following –
+1) Predict price of a mercedez benz that is 4 yr old with mileage 45000
+2) Predict price of a BMW X5 that is 7 yr old with mileage 86000
+3) Tell me the score (accuracy) of your model. 
+4.	Using ANN predict the hand written digits from MNSIT dataset and find out the accuracy.
+5.	Using CNN predict the hand written digits from MNSIT dataset and find out the accuracy.
+
+
+
+
+
